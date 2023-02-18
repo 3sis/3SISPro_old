@@ -1,0 +1,320 @@
+﻿/*Cutomiized Button Styling*/
+.btn-outline-success {
+    padding: 0px 4px 0px 4px;
+}
+/*Button - Clone*/
+.btnClone3SIS {
+    color: #F5821F;
+    border-color: #F5821F;
+    padding: 0px 5px 0px 5px;
+}
+
+    .btnClone3SIS:hover {
+        color: #fff;
+        background-color: #F5821F;
+        border-color: #F5821F;
+    }
+/*Button - Yes*/
+.btnYes3SIS {
+    color: #00B050;
+    border-color: #00B050;
+    padding: 0px 5px 0px 5px;
+}
+    .btnYes3SIS:hover {
+        color: #fff;
+        background-color: #00B050;
+        border-color: #00B050;
+    }
+
+/*Button - No*/
+.btnNo3SIS {
+    color: #FF0000;
+    border-color: #FF0000;
+    padding: 0px 5px 0px 5px;
+}
+    .btnNo3SIS:hover {
+        color: #fff;
+        background-color: #FF0000;
+        border-color: #FF0000;
+    }
+
+/*Button - Cancle*/
+.btnCancel3SIS {
+    color: #F5821F;
+    border-color: #F5821F;
+    padding: 0px 5px 0px 5px;
+}
+    .btnCancel3SIS:hover {
+        color: #fff;
+        background-color: #F5821F;
+        border-color: #F5821F;
+    }
+
+/*Button - Calculate*/
+.btnCalculate3SIS {
+    color: dodgerblue;
+    border-color: blue;
+    padding: 0px 5px 0px 5px;
+}
+    .btnCalculate3SIS:hover {
+        color: #fff;
+        background-color: blue;
+        border-color: blue;
+    }
+
+/*Button - Continue*/
+.btnContinue3SIS {
+    color: dodgerblue;
+    border-color: blue;
+    padding: 0px 5px 0px 5px;
+}
+    .btnContinue3SIS:hover {
+        color: #fff;
+        background-color: blue;
+        border-color: blue;
+    }
+
+/*Button - Clear Screen Data*/
+.btnClearScreen3SIS {
+    color: white;
+    border-color: white;
+    padding: 0px 5px 0px 5px;
+}
+    .btnClearScreen3SIS:hover {
+        color: #fff;
+        background-color: black;
+        border-color: white;
+    }
+/*Button - Select All*/
+.btnSelectAll3SIS {
+    color: #00FFFF;
+    border-color: #00FFFF;
+    padding: 0px 5px 0px 5px;
+}
+
+    .btnSelectAll3SIS:hover {
+        color: #fff;
+        background-color: black;
+        border-color: white;
+    }
+/*Button - Unselect All*/
+.btnUnSelectAll3SIS {
+    color: #00FFFF;
+    border-color: #00FFFF;
+    padding: 0px 5px 0px 5px;
+}
+
+    .btnUnSelectAll3SIS:hover {
+        color: #fff;
+        background-color: black;
+        border-color: white;
+    }
+/*Button - Fetch Master Data*/
+.btnFetchData3SIS {
+    color: #F5821F;
+    border-color: #F5821F;
+    padding: 0px 5px 0px 5px;
+}
+    .btnFetchData3SIS:hover {
+        color: #fff;
+        background-color: #F5821F;
+        border-color: #F5821F;
+    }
+
+/*Button - Add New Record*/
+.btnAddRec3SIS {
+    color: white;
+    border-color: #5c1ac3 ;
+    background-color: #5c1ac3 ;
+    padding: 0px 5px 0px 5px;
+}
+    .btnAddRec3SIS:hover {
+        color: #5c1ac3;
+        background-color: black;
+        border-color: #5c1ac3;
+    }
+/*Button - Edit Record*/
+.btnEditRec3SIS {
+    color: white;
+    border-color: #1b55e2 ;
+    background-color: #1b55e2 ;
+    padding: 0px 5px 0px 5px;
+}
+    .btnEditRec3SIS:hover {
+        color: #1b55e2;
+        background-color: black;
+        border-color: #1b55e2;
+    }
+    
+/*Button - Delete Record*/
+.btnDeleteRec3SIS {
+    color: white;
+    border-color: rgb(220, 53, 69) ;
+    background-color: rgb(220, 53, 69) ;
+    padding: 0px 5px 0px 5px;
+}
+    .btnDeleteRec3SIS:hover {
+        color: rgb(220, 53, 69);
+        background-color: black;
+        border-color: rgb(220, 53, 69);
+    }
+/*Button - UnDelete Record*/
+.btnUnDeleteRec3SIS {
+    color: white;
+    border-color: #d63384 ;
+    background-color: #d63384 ;
+    padding: 0px 5px 0px 5px;
+}
+    .btnUnDeleteRec3SIS:hover {
+        color: #d63384;
+        background-color: black;
+        border-color: #d63384;
+    }
+/*Button - Change Fields*/
+.btnChangeFields3SIS {
+    color: white;
+    border-color: #9900cc ;
+    background-color: #9900cc ;
+    padding: 0px 5px 0px 5px;
+}
+    .btnChangeFields3SIS:hover {
+        color: #9900cc;
+        background-color: black;
+        border-color: #9900cc;
+    }
+/*Button - Form Level Help*/
+.btnQuestionMark3SIS {
+    color: black;
+    border-color: #ffc107 ;
+    background-color: #ffc107 ;
+    padding: 0px 5px 0px 5px;
+}
+    .btnQuestionMark3SIS:hover {
+        color: #ffc107;
+        background-color: black;
+        border-color: #ffc107;
+    }
+/*Button - Close Form*/
+.btnClose3SIS {
+    color: White;
+    border-color: none;
+    padding: 0px 6px 0px 6px;
+}
+    .btnClose3SIS:hover {
+        color: white;
+        background-color: red;
+        border-color: none;
+    }
+
+/* Button - Info*/
+.btnFormInfo3SIS {
+    color: #007bff;
+    border-color: none;
+    padding: 0px 10px 1px 10px;
+}
+    .btnFormInfo3SIS:hover {
+        color: #fff;
+        background-color: black;
+        border-color: blue;
+    }
+
+/*Button - Search*/
+.btnSearch3SIS {
+    color: #00B050;
+    padding: 0px 6px 0px 6px;
+}
+    .btnSearch3SIS:hover {
+        color: #fff;
+        background-color: black;
+        border-color: #F5821F;
+    }
+
+/*Button - Warning*/
+.btnWarning3SIS {
+    color: red;
+    padding: 0px 6px 0px 6px;
+}
+
+    .btnWarning3SIS:hover {
+        color: #fff;
+        background-color: black;
+        border-color: red;
+    }
+
+/*Button - Save on Header*/
+.btnSave3SIS {
+    color: #00B050;
+    border-color: #00B050;
+    padding: 0px 5px 0px 5px;
+}
+    .btnSave3SIS:hover {
+        color: #fff;
+        background-color: #00B050;
+        border-color: #00B050;
+    }
+/*Button - Save on Detail*/
+.btnSaveDetail3SIS {
+    color: black;
+    border-color: black;
+    padding: 0px 5px 0px 5px;
+}
+    .btnSaveDetail3SIS:hover {
+        color: white;
+        background-color: black;
+        border-color: black;
+    }
+/*Button - Delete on Header*/
+.btnDeleteHeader3SIS {
+    color: maroon;
+    border-color: maroon;
+    padding: 0px 5px 0px 5px;
+}
+    .btnDeleteHeader3SIS:hover {
+        color: white;
+        background-color: red;
+        border-color: red;
+    }
+/*Button - Focus and Shadow*/
+.btn:focus, .btn.focus {
+    outline: 0 !important;
+    border-color: black !important;
+    box-shadow: 0 0 0 0.2rem rgba(88, 89, 91, 0.25);
+}
+
+/* Button - Placement inside Table*/
+.btnTable3SIS {
+    padding: 0px 4px 0px 4px;
+}
+/*Form Header Left Button Padding*/
+.FormHeaderButtonsLeft3SIS {
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    padding-left: 10px;
+}
+
+/*Form Header Right Button Padding*/
+.FormHeaderButtonsRight3SIS {
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    padding-right: 10px;
+}
+
+/*Popover Styling*/
+.popover {
+    /*background-color: black;*/
+    border-color:black;
+}
+.popover-header {
+    color: #F5821F;     /*3ISS Orange*/
+    background-color: black;
+}
+.popover-body {
+    color: #BFBFBF;     /*3ISS Silver*/
+    background-color: black;
+}
+/*Popover Styling Ends*/
+/* Changes by sarika */
+textarea.form-control {
+    height: auto;
+    height: 40px;
+}

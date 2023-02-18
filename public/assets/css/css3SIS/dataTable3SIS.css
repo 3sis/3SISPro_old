@@ -1,0 +1,546 @@
+/* Landing Page browser table with XL Features **********/
+
+#html5-extension3SIS table,
+#html5-extension3SIS td,
+#html5-extension3SIS th {
+    /* border: 1px solid #BFBFBF; */
+    text-align: left;
+}
+
+#html5-extension3SIS table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#html5-extension3SIS th,
+#html5-extension3SIS td {
+    padding-left: 5px;
+}
+
+.table > tbody tr {
+    border-radius: 4px;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    border-bottom: 1px solid #191e3a;
+    /* background: transparent!important; */
+    height: 50%;
+}
+
+#html5-extension3SIS tr:hover {
+    background-color: #000000 !important;
+}
+
+#html5-extension3SIS tr th {
+    /* background: #343A40; */
+    /* height: 10px !important; */
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 11px;
+    font-weight: bold;
+    white-space: nowrap;
+    /* color: #FFFFFF !important; */
+}
+
+#html5-extension3SIS tr td {
+    /* color: #343A40 !important; */
+    height: 1rem !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight: 100;
+    color: white;
+    overflow: hidden; /* this is what fixes the expansion */
+    white-space: nowrap;
+}
+
+
+
+
+  
+.table > tbody:before {
+    line-height: 0em;
+    content: "_";
+    color: transparent;
+    display: block;
+}
+/* Landing Page browser table with XL Features End **********/
+
+/* Sub form Browser table with XL Features **********/
+
+#html5-incomeTypeSubform3SIS table,
+#html5-incomeTypeSubform3SIS td,
+#html5-incomeTypeSubform3SIS th {
+    /* border: 1px solid #BFBFBF; */
+    text-align: left;
+}
+
+#html5-incomeTypeSubform3SIS table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#html5-incomeTypeSubform3SIS th,
+#html5-incomeTypeSubform3SIS td {
+    padding-left: 5px;
+}
+
+.table > tbody tr {
+    border-radius: 4px;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    border-bottom: 1px solid #191e3a;
+    /* background: transparent!important; */
+    height: 50%;
+}
+
+#html5-incomeTypeSubform3SIS tr:hover {
+    background-color: #000000 !important;
+}
+
+#html5-incomeTypeSubform3SIS tr th {
+    /* background: #343A40; */
+    /* height: 10px !important; */
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 11px;
+    font-weight: bold;
+    white-space: nowrap;
+    /* color: #FFFFFF !important; */
+}
+
+#html5-incomeTypeSubform3SIS tr td {
+    /* color: #343A40 !important; */
+    height: 1rem !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight: 100;
+    color: white;
+}
+.table > tbody:before {
+    line-height: 0em;
+    content: "_";
+    color: transparent;
+    display: block;
+}
+/* Sub form browser table with XL Features End **********/
+
+
+
+
+.form-group label, label {
+    font-size: 13px !important;
+    color: #acb0c3;
+    letter-spacing: 1px;
+}
+.form-group {
+    margin-bottom: 0.50rem !important;
+}
+.form-control {
+    height: auto;
+    border: 1px solid #1b2e4b;
+    color: #009688;
+    font-size: 13px;
+    padding: 8px 10px;
+    letter-spacing: 1px;
+    height: calc(1em + 1rem + 2px);
+    padding: 0.75rem 1.25rem;
+    border-radius: 6px;
+    background: #1b2e4b;
+}
+label {
+    display: inline-block;
+    margin-bottom: .2rem !important;
+}
+textarea.form-control {
+    height: auto;
+    height: 33px;
+}
+/* Subform Detail Entry 3SIS */
+.form-control-detail3SIS {
+    height: auto;
+    border: 1px solid rgb(102, 175, 233);
+    color: white;
+    font-size: 13px;
+    padding: 8px 10px;
+    letter-spacing: 1px;
+    height: calc(1em + 1rem + 2px);
+    padding: 0.75rem 1.25rem;
+    border-radius: 6px;
+    background: #58595B;
+    font-weight:400;
+}
+.select2-container {
+    border: 1px solid #66afe9;
+  }
+.select2-container .select2-selection--single .select2-selection__rendered {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    padding: 8px 10px;
+    letter-spacing: 1px;
+    height: calc(1em + 1rem + 2px);
+    padding: 0.50rem 1.25rem;
+    border-radius: 6px;
+    box-shadow: none;
+    border: #25d5e4;
+    color: #25d5e4;
+    background-color: #1b2e4b;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 26px;
+    position: absolute;
+    top: 4px;
+    right: 7px;
+    width: 20px;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    border: 1px solid #3b3f5c;
+    color: #009688;
+    font-size: 13px;
+    padding: 5px 16px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    border-radius: 4px;
+    background: #1b2e4b;
+}
+
+.select2-results__option {
+    padding: 2px 19px;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.select2-container--default .select2-selection--multiple {
+    background-color: white;
+    border-radius: 4px;
+    cursor: text;
+    border: 1px solid #3b3f5c;
+    color: #009688;
+    font-size: 15px;
+    padding: 0px 16px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    background: #1b2e4b;
+}
+
+.animated-underline-content .nav-tabs li a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.nav-tabs .nav-link.active {
+    color: #F5821F !important;
+    background-color: black;
+    border-top: #FFFFFF;
+    border-right: #FFFFFF;
+    border-left: #FFFFFF;
+    border-bottom: 1px solid #F5821F;
+}
+
+.mb-4, .my-4 {
+    margin-bottom: .50rem!important;
+}
+
+.modal-footer {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    /* justify-content: flex-start; */
+    padding: .75rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-right-radius: calc(.3rem - 1px);
+    border-bottom-left-radius: calc(.3rem - 1px);
+}
+/* Detail Entry Modal */
+/* Header */
+.modal-header-detail3SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+    background-color: #343A40;
+  }
+  
+  .modal-header-detail3SIS .close {
+    padding: 1rem 1rem;
+    margin: -1rem -1rem -1rem auto;
+  }
+/* Body */
+.widget-content-area-detail3SIS {
+    padding: 20px;
+    position: relative;
+    background-color: #343A40;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+/* Footer */
+.modal-footer-detail3SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    padding: .75rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-right-radius: calc(.3rem - 1px);
+    border-bottom-left-radius: calc(.3rem - 1px);
+    background-color: #343A40;
+}
+/* Detail Entry Modal  Ends*/
+
+/* Detail1 Entry Modal */
+/* Header */
+.modal-header-detail13SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+    background-color: #330066;
+  }
+  
+  .modal-header-detail13SIS .close {
+    padding: 1rem 1rem;
+    margin: -1rem -1rem -1rem auto;
+  }
+/* Body */
+.widget-content-area-detail13SIS {
+    padding: 20px;
+    position: relative;
+    background-color: #330066;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+/* Footer */
+.modal-footer-detail13SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    padding: .75rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-right-radius: calc(.3rem - 1px);
+    border-bottom-left-radius: calc(.3rem - 1px);
+    background-color: #330066;
+}
+/* Detail Entry Modal  Ends*/
+
+/* Madhav Start*/
+#html5-SubForm3SIS1 table,
+#html5-SubForm3SIS1 td,
+#html5-SubForm3SIS1 th {
+    /* border: 1px solid #BFBFBF; */
+    text-align: left;
+}
+
+#html5-SubForm3SIS1 table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#html5-SubForm3SIS1 th,
+#html5-SubForm3SIS1 td {
+    padding-left: 5px;
+}
+
+.table > tbody tr {
+    border-radius: 4px;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    border-bottom: 1px solid #191e3a;
+    /* background: transparent!important; */
+    height: 50%;
+}
+
+#html5-SubForm3SIS1 tr:hover {
+    background-color: #000000 !important;
+}
+
+#html5-SubForm3SIS1 tr th {
+    /* background: #343A40; */
+    /* height: 10px !important; */
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 11px;
+    font-weight: bold;
+    white-space: nowrap;
+    /* color: #FFFFFF !important; */
+}
+
+#html5-SubForm3SIS1 tr td {
+    /* color: #343A40 !important; */
+    height: 1rem !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight: 100;
+    color: white;
+    overflow: hidden; /* this is what fixes the expansion */
+    white-space: nowrap;
+}
+/* Madhav End */
+
+
+/* F4 List Dtat table using Class*/
+
+.html5-F4List3SIS table,
+.html5-F4List3SIS td,
+.html5-F4List3SIS th {
+    /* border: 1px solid #BFBFBF; */
+    text-align: left;
+}
+
+.html5-F4List3SIS table {
+    width: 100%;
+    border-collapse: collapse;
+    /* background-color: #DA70D6 !important;     */
+}
+
+.html5-F4List3SIS th,
+.html5-F4List3SIS td {
+    padding-left: 5px;
+}
+
+.table > tbody tr {
+    border-radius: 4px;
+    -webkit-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+    border-bottom: 1px solid #191e3a;
+    /* background: transparent!important; */
+    height: 50%;
+}
+
+.html5-F4List3SIS tr:hover {
+    background-color: #000000 !important;
+}
+
+.html5-F4List3SIS tr th {
+    background: black !important;
+    /* height: 10px !important; */
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 11px;
+    font-weight: bold;
+    white-space: nowrap;
+    /* color: #FFFFFF !important; */
+}
+
+.html5-F4List3SIS tr td {
+    /* color: #343A40 !important; */
+    height: 1rem !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    font-family: 'Segoe UI', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight: 100;
+    color: white;
+    overflow: hidden; /* this is what fixes the expansion */
+    white-space: nowrap;
+}
+
+.html5-F4List3SIS table > thead > tr > th {
+    color: #008080;
+    font-weight: 700;
+    font-size: 13px;
+    border: none;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+/* .table > thead > tr > th {
+    color: #d3d3d3;
+} */
+
+.html5-F4List3SIS table > tbody > tr > td {
+    border: none;
+    color: black;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+/* Footer Modal */
+.modal-footer-F4List3SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    /* justify-content: flex-start; */
+    padding: .75rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-right-radius: calc(.3rem - 1px);
+    border-bottom-left-radius: calc(.3rem - 1px);
+}
+
+/* Header Modal*/
+.modal-header-F4List3SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+    background-color: #008080;
+  }
+
+  .modal-body-F4List3SIS {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+    /* background-color: #008080; */
+  }
+  
+  .modal-header-F4List3SIS .close {
+    padding: 1rem 1rem;
+    margin: -1rem -1rem -1rem auto;
+  }
+
+  .widget-content-area-F4List3SIS {
+    padding: 20px;
+    position: relative;
+    background-color: #ADD8E6;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+/* F4 List Dtat table using Class Ends*/
